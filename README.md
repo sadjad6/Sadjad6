@@ -57,7 +57,7 @@
   </a>
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <!-- TensorFlow -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
