@@ -18,9 +18,11 @@
 
 </p>
 ---
+
 ### 🏅 Professional Badges and Credentials
 
 <p align="center">
+  <a href="https://files.datascientest.com/diploma/32b1d4b9-6658-45e6-8716-a616479e7783.pdf"><img src="./datascientest.png" width="150"></a>
 
 
 </p>
