@@ -141,7 +141,7 @@
   </a>
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="40" height="40"/>
+    <img src="./Airflow.png" alt="airflow" width="40" height="40"/>
   </a>
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
