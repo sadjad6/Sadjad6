@@ -129,15 +129,15 @@
   </a>
   <!-- Azure DevOps -->
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/azuredevops/azuredevops-icon.svg" alt="azuredevops" width="40" height="40"/>
+    <img src="./azuredevops.png" alt="azuredevops" width="40" height="40"/>
   </a>
   <!-- MLflow -->
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
+    <img src="./MLflow.png" alt="mlflow" width="40" height="40"/>
   </a>
   <!-- DVC -->
   <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dvcorg/dvcorg-icon.svg" alt="dvc" width="40" height="40"/>
+    <img src="./DVC.png" alt="dvc" width="40" height="40"/>
   </a>
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
@@ -169,7 +169,7 @@
   </a>
   <!-- Confluence -->
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/>
+    <img src="./confluence.png" alt="confluence" width="40" height="40"/>
   </a>
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
