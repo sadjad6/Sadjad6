@@ -45,7 +45,7 @@
   </a>
   <!-- SciPy -->
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="scipy" width="40" height="40"/>
+    <img src="./scipy-logo.png" alt="scipy" width="40" height="40"/>
   </a>
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
