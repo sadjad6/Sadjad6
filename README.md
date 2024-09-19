@@ -37,3 +37,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadjad6&show_icons=true&locale=en" alt="sadjad6" /></p>
 
 ---
+
+### Projects
+
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Techniques</th>
+    <th>Data Types</th>
+    <th>Poster</th>
+  </tr>
