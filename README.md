@@ -1,14 +1,14 @@
 ### Hello World, I'm Sadjad, Data Scientist | Machine Learning/MLOps Engineer | Computational Neuroscientist (Ph.D.)! 👋
 
-- Data Scientist and MLOps Engineer with a strong background in computational neuroscience and over 8 years of experience in machine learning, data analysis, and brain simulations.
-- Proficient in Python (Pandas, NumPy, SciPy, Scikit-learn), TensorFlow, PyTorch, Keras, and well-versed in computer vision techniques and deep learning architectures (CNNs, OpenCV).
-- Experienced in developing and deploying end-to-end AI/ML solutions, including real-time systems such as a blood cell classification tool using TensorFlow, FastAPI, and OpenCV.
-- Skilled in containerization (Docker, Kubernetes) and cloud infrastructure (AWS, Microsoft Azure), with automated CI/CD pipelines for seamless deployment (Git, GitHub Actions, Azure DevOps).
-- Expertise in database management with SQL and NoSQL solutions (MongoDB), combined with a solid understanding of data visualization tools like Matplotlib, Seaborn, and Plotly.
-- Developer of automated monitoring and logging systems utilizing Prometheus and Grafana for cloud-based applications.
-- Published research in top-tier neuroscience journals, applying advanced machine learning techniques for fMRI data analysis and Bayesian statistical modeling.
-- Lead contributor to developing APIs and deployment pipelines using tools such as Flask, FastAPI, Docker, Terraform, and Azure Pipelines.
-- Passionate about applying machine learning, deep learning, and AI technologies to solve complex problems across multiple domains, including healthcare and finance.
+- Data Scientist and MLOps Engineer with 8+ years in machine learning, data analysis, and brain simulations.
+- Proficient in Python, TensorFlow, PyTorch, Keras, and computer vision (CNNs, OpenCV).
+- Developed AI/ML solutions, including a real-time blood cell classification system.
+- Skilled in Docker, Kubernetes, AWS, and Azure with CI/CD automation (Git, GitHub Actions, Azure DevOps).
+- Expertise in SQL, NoSQL (MongoDB), and data visualization (Matplotlib, Seaborn, Plotly).
+- Experience with cloud monitoring using Prometheus and Grafana.
+- Published research applying machine learning to fMRI data and Bayesian modeling.
+- Developed APIs and deployment pipelines with Flask, FastAPI, Docker, and Terraform.
+- Passionate about using AI/ML to solve complex problems in healthcare and finance.
 - Open to collaborations on projects related to data science, MLOps, AI/ML pipelines.
 
 <h3 align="left">Connect with me:</h3>
