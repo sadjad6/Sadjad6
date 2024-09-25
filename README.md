@@ -197,3 +197,22 @@
     <th>Data Types</th>
     <th>Poster</th>
   </tr>
+<tr>
+    <td>
+      <a href="https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
+      <em>Deep Convolutional Neural Networks and Machine Learning Models for Anomaly Detection in Microscopic Malaria cells.</em>
+    </td>
+    <td>Deep CNN, Data Augmentation, Feature Engineering, Image Processing, Optimization</td>
+    <td>Image</td>
+    <td><img src="MalariaClassifierArtImage.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mdhabibi/Automated-Cell-Semantic-Segmentation-with-UNet.git"><strong>Automated Nucleus Detector</strong></a><br>
+      <em>A Semantic Segmentation Solution for Automating Nucleus Detection of Microscopic Biomedical Images.</em>
+    </td>
+    <td>U-Net, Keras-tunner, Semantic Segmentation</td>
+    <td>Image</td>
+    <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
+  </tr>
+  </table>
