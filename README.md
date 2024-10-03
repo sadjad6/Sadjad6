@@ -22,12 +22,18 @@
 ### 🏅 Professional Badges and Credentials
 
 <p align="center">
-    <a href="https://files.datascientest.com/diploma/1168720e-2438-4bf6-9cca-4930562ee26f.pdf"><img src="./datascientest.png" width="150"></a>
-  <a href="https://files.datascientest.com/diploma/32b1d4b9-6658-45e6-8716-a616479e7783.pdf"><img src="./datascientest.png" width="150"></a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/SadjadSadeghi-5193/75737191D3780AC0?sharingId=86425B7D613245BB"><img src="./microsoft-certified-fundamentals-badge.svg" width="150"></a>
-
-
-
+    <a href="https://files.datascientest.com/diploma/1168720e-2438-4bf6-9cca-4930562ee26f.pdf">
+        <img src="./datascientest.png" width="150">
+        <br>Machine Learning Engineer Diploma
+    </a>
+    <a href="https://files.datascientest.com/diploma/32b1d4b9-6658-45e6-8716-a616479e7783.pdf">
+        <img src="./datascientest.png" width="150">
+        <br>Data Science Diploma
+    </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/SadjadSadeghi-5193/75737191D3780AC0?sharingId=86425B7D613245BB">
+        <img src="./microsoft-certified-fundamentals-badge.svg" width="150">
+        <br>Azure Fundamentals
+    </a>
 </p>
 ---
 <h3 align="left">Skills:</h3>
