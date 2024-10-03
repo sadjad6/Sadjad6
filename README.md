@@ -21,7 +21,7 @@
 
 ### 🏅 Professional Badges and Credentials
 
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px;">
 
   <div align="center">
     <a href="https://files.datascientest.com/diploma/1168720e-2438-4bf6-9cca-4930562ee26f.pdf">
