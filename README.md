@@ -21,21 +21,21 @@
 
 ### 🏅 Professional Badges and Credentials
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://files.datascientest.com/diploma/1168720e-2438-4bf6-9cca-4930562ee26f.pdf">
         <img src="./datascientest.png" width="150">
         <br>Machine Learning Engineer Diploma
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://files.datascientest.com/diploma/32b1d4b9-6658-45e6-8716-a616479e7783.pdf">
         <img src="./datascientest.png" width="150">
         <br>Data Science Diploma
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/SadjadSadeghi-5193/75737191D3780AC0?sharingId=86425B7D613245BB">
         <img src="./microsoft-certified-fundamentals-badge.svg" width="150">
         <br>Azure Fundamentals
@@ -43,7 +43,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 <h3 align="left">Skills:</h3>
