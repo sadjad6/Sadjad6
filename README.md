@@ -231,4 +231,13 @@
     <td>Image</td>
     <td><img src="giphy.gif" alt="Project 1 Poster" width="200"></td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sadjad6/movie-recommendation-systems.git"><strong>Movie Recommendation Systems</strong></a><br>
+      <em>A comprehensive collection of movie recommendation systems, implementing collaborative filtering, content-based filtering, and Bayesian average techniques.</em>
+    </td>
+    <td>Collaborative Filtering, Content-Based Filtering, Bayesian Average</td>
+    <td>Metadata, User Ratings, CSV</td>
+    <td><img src="https://github.com/mdhabibi/mdhabibi/blob/main/poster.png" alt="Movie Recommendation Systems Poster" width="200"></td>
+  </tr>
   </table>
