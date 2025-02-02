@@ -219,7 +219,7 @@
       <em>DeepSeek-R1 PDF Q&A Assistant.</em>
     </td>
     <td>LLM (DeepSeek-R1), HuggingFace Embeddings, Vector Search, Sentence Splitting, Prompt Engineering, Streaming Responses	</td>
-    <td>Image</td>
+    <td>Text, PDFs</td>
     <td><img src="https://github.com/sadjad6/AboutMe/blob/main/images/rag_pdf/afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="Project 1 Poster" width="200"></td>
   </tr>
 <tr>
