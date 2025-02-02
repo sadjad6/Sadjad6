@@ -213,6 +213,15 @@
     <th>Data Types</th>
     <th>Poster</th>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sadjad6/pdf_RAG_chatbot.git"><strong>PDF Q&A RAG</strong></a><br>
+      <em>DeepSeek-R1 PDF Q&A Assistant.</em>
+    </td>
+    <td>LLM (DeepSeek-R1), HuggingFace Embeddings, Vector Search, Sentence Splitting, Prompt Engineering, Streaming Responses	</td>
+    <td>Image</td>
+    <td><img src="https://github.com/sadjad6/AboutMe/blob/main/images/rag_pdf/afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="Project 1 Poster" width="200"></td>
+  </tr>
 <tr>
     <td>
       <a href="https://github.com/sadjad6/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
