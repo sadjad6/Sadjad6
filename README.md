@@ -222,6 +222,15 @@
     <td>Text, PDFs</td>
     <td><img src="https://github.com/sadjad6/AboutMe/blob/main/images/rag_pdf/afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="Project 1 Poster" width="200"></td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/sadjad6/Text-Summarizer.git"><strong>Text-Summarizer</strong></a><br>
+      <em>Pegasus Text Summarization.</em>
+    </td>
+    <td>Transformers (Pegasus), Fine-Tuning, Data Augmentation, Tokenization, Beam Search, Length Penalty, CI/CD (GitHub Actions), FastAPI, Docker, AWS	</td>
+    <td>Text (Dialogues, Summaries)</td>
+    <td><img src="https://github.com/sadjad6/AboutMe/blob/main/images/Text_summarization/text_sum.webp" alt="Project 1 Poster" width="200"></td>
+  </tr>
 <tr>
     <td>
       <a href="https://github.com/sadjad6/CNN-Predictor-for-Malaria_Cells-LIME-CAM.git"><strong>Malaria Cell Classifier</strong></a><br>
