@@ -213,6 +213,15 @@
     <th>Data Types</th>
     <th>Poster</th>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/sadjad6/personal_knowledge_agent.git"><strong>Personal Knowledge Management Agent</strong></a><br>
+      <em>Context-aware Q&A over personal notes (Markdown, Notion exports, Obsidian vaults), with daily summarization and learning digest via autonomous agents.</em>
+    </td>
+    <td>LLM (Gemma 3B via Ollama), LlamaIndex, Qdrant, RAG, Agentic Scheduling, Prompt Engineering, LangChain</td>
+    <td>Text, Markdown, Notion/Obsidian Exports</td>
+    <td><img src="https://github.com/sadjad6/AboutMe/blob/main/images/rag_pdf/afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="Project 1 Poster" width="200"></td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/sadjad6/pdf_RAG_chatbot.git"><strong>PDF Q&A RAG</strong></a><br>
