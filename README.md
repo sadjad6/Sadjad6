@@ -218,7 +218,7 @@
       <a href="https://github.com/sadjad6/personal_knowledge_agent.git"><strong>Personal Knowledge Management Agent</strong></a><br>
       <em>Context-aware Q&A over personal notes (Markdown, Notion exports, Obsidian vaults), with daily summarization and learning digest via autonomous agents.</em>
     </td>
-    <td>LLM (Gemma 3B via Ollama), LlamaIndex, Qdrant, RAG, Agentic Scheduling, Prompt Engineering, LangChain</td>
+    <td>LLM (Gemma3 via Ollama), LlamaIndex, Qdrant, RAG, Agentic Scheduling, Prompt Engineering, LangChain</td>
     <td>Text, Markdown, Notion/Obsidian Exports</td>
     <td><img src="https://github.com/sadjad6/Sadjad6/blob/main/pka_agent.png" alt="Project 1 Poster" width="200"></td>
   </tr>
