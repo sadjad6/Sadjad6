@@ -213,6 +213,15 @@
     <th>Data Types</th>
     <th>Poster</th>
   </tr>
+      <tr>
+    <td>
+      <a href="https://github.com/sadjad6/FinSage.git"><strong>FinSage: AI-Powered Financial Advisor</strong></a><br>
+      <em>Autonomous multi-agent system for financial and investment advising, helping users make data-driven decisions across various asset classes including stocks, ETFs, bonds, and cryptocurrencies.</em>
+    </td>
+    <td>LLM (Gemma3 via Ollama), LlamaIndex, Qdrant, RAG, Agentic Scheduling, Prompt Engineering, LangChain</td>
+    <td>Text, Markdown, Notion/Obsidian Exports</td>
+    <td><img src="https://github.com/sadjad6/Sadjad6/blob/main/Finsage.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
     <tr>
     <td>
       <a href="https://github.com/sadjad6/personal_knowledge_agent.git"><strong>Personal Knowledge Management Agent</strong></a><br>
