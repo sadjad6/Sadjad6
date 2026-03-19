@@ -215,6 +215,15 @@
   </tr>
       <tr>
     <td>
+      <a href="https://github.com/sadjad6/agentic-enterprise-rag-langgraph.git"><strong>Enterprise RAG Assistant </strong></a><br>
+      <em>GDPR-compliant, agentic RAG system with LangGraph, hybrid LLMs (Ollama + GPT), and enterprise document retrieval.</em>
+    </td>
+    <td>LLM (Ollama + GPT-4o-mini), LangChain, LangGraph, Agentic Workflow, RAG, Hybrid Search (Vector + BM25), Prompt Engineering, GDPR Compliance, PII Anonymization, Multilingual NLP, FastAPI, Weaviate Vector DB, Document Processing, Token Counting, Language Detection</td>
+    <td> Text, PDF, Markdown, CSV/Structured Documents, JSON, API Data, Embeddings, User Queries, Cost Metrics, API Responses, Chat Messages, Document Metadata</td>
+    <td><img src="https://github.com/sadjad6/agentic-enterprise-rag-langgraph/blob/main/assets/banner.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
       <a href="https://github.com/sadjad6/open-autonomous-research-lab.git"><strong>Open Autonomous Research Lab (OARL)</strong></a><br>
       <em>A multi-agent AI platform for autonomous data analysis, ML experimentation, research discovery, and report generation.</em>
     </td>
