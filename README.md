@@ -215,6 +215,15 @@
   </tr>
       <tr>
     <td>
+      <a href="https://github.com/sadjad6/open-autonomous-research-lab.git"><strong>Open Autonomous Research Lab (OARL)</strong></a><br>
+      <em>A multi-agent AI platform for autonomous data analysis, ML experimentation, research discovery, and report generation.</em>
+    </td>
+    <td>LLM (Gemma3 via Ollama), LangChain, LangGraph, Agentic Workflow, FinBERT, RAG, Prompt Engineering, MCP (Modular Contextual Pipeline), Gradio UI</td>
+    <td>Text, CSV, JSON, API Data, News Articles, User Profile Data, Scheduling Settings</td>
+    <td><img src="https://github.com/sadjad6/open-autonomous-research-lab/blob/860ab15af23e72b349a98c95e53449dfd3893d7a/docs/assets/oarl_logo.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
       <a href="https://github.com/sadjad6/FinSage.git"><strong>FinSage: AI-Powered Financial Advisor</strong></a><br>
       <em>Autonomous multi-agent system for financial and investment advising, helping users make data-driven decisions across various asset classes including stocks, ETFs, bonds, and cryptocurrencies.</em>
     </td>
