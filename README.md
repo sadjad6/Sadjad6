@@ -218,8 +218,8 @@
       <a href="https://github.com/sadjad6/open-autonomous-research-lab.git"><strong>Open Autonomous Research Lab (OARL)</strong></a><br>
       <em>A multi-agent AI platform for autonomous data analysis, ML experimentation, research discovery, and report generation.</em>
     </td>
-    <td>LLM (Gemma3 via Ollama), LangChain, LangGraph, Agentic Workflow, FinBERT, RAG, Prompt Engineering, MCP (Modular Contextual Pipeline), Gradio UI</td>
-    <td>Text, CSV, JSON, API Data, News Articles, User Profile Data, Scheduling Settings</td>
+    <td>Multi-Agent System, Agentic Workflow, Orchestration Agents, Ensemble Learning (XGBoost, LightGBM), Statistical Analysis (SciPy, Statsmodels), Vector Database (ChromaDB), RAG (Retrieval-Augmented Generation), Experiment Tracking (MLflow), MCP Servers, Prompt Engineering, FastAPI REST Architecture, Streamlit UI</td>
+    <td> CSV, Pandas DataFrames, NumPy Arrays, JSON, PyArrow Tables, SQL Databases, Text Reports, Experiment Metadata, Vector Embeddings, Excel Files, Tabular Data, Time Series Data</td>
     <td><img src="https://github.com/sadjad6/open-autonomous-research-lab/blob/860ab15af23e72b349a98c95e53449dfd3893d7a/docs/assets/oarl_logo.png" alt="Project 1 Poster" width="200"></td>
   </tr>
     <tr>
