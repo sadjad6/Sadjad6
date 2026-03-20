@@ -242,6 +242,15 @@
   </tr>
     <tr>
     <td>
+      <a href="https://github.com/sadjad6/agent_eval_lab.git"><strong>RL environment framework</strong></a><br>
+      <em>Production-grade deterministic RL environment framework for training and evaluating LLM-style agents without external APIs.</em>
+    </td>
+    <td>Reinforcement Learning (RL), PPO (Proximal Policy Optimization), Generalized Advantage Estimation (GAE), Deterministic Environment Simulation, Out-Of-Distribution (OOD) Evaluation, Distribution Shift Analysis, Deterministic Judging, Policy Gradient Methods, Stability Instrumentation, YAML Configuration, PyTorch, Docker, Pytest, GitHub Actions, CI/CD Automation</td>
+    <td>Synthetic Datasets, Feature Vectors (32-dimensional), Classification Labels (5 classes), Train/Validation Splits, Policy Checkpoints, Metrics Logs (JSON), YAML Configurations, Covariance Matrices, Class Priors, Reward Signals, Gradient Data, Entropy Values, KL Divergence Metrics, Accuracy Scores, Generalization Gap Data</td>
+    <td><img src="https://github.com/sadjad6/agent_eval_lab/blob/main/agent_eval_lab_banner.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
       <a href="https://github.com/sadjad6/FinSage.git"><strong>FinSage: AI-Powered Financial Advisor</strong></a><br>
       <em>Autonomous multi-agent system for financial and investment advising, helping users make data-driven decisions across various asset classes including stocks, ETFs, bonds, and cryptocurrencies.</em>
     </td>
