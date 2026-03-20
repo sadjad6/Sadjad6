@@ -233,6 +233,15 @@
   </tr>
     <tr>
     <td>
+      <a href="https://github.com/sadjad6/aegis-claims-ai-platform.git"><strong>AegisClaims AI</strong></a><br>
+      <em>AegisClaims AI is a production-grade, multi-tenant B2B SaaS platform that provides AI-powered, autonomous insurance claims triage and decisioning for motor and property insurance.</em>
+    </td>
+    <td>LLM (AWS Bedrock), Multi-Agent AI System, RAG (Retrieval-Augmented Generation via OpenSearch), ML-based Fraud Detection (AWS SageMaker), Clean Architecture, Agentic Orchestration, NLP, OCR, RBAC, Multi-Tenancy, Audit Trails, Prompt Engineering</td>
+    <td>Claims Data, Insurance Policy Documents, Unstructured Documents (OCR), Claim Metadata, Fraud Detection Signals, User Profile Data, Tenant Configuration Data, Audit Logs, Prompt Templates, Model Evaluation Datasets</td>
+    <td><img src="https://github.com/sadjad6/aegis-claims-ai-platform/blob/main/aegis_claims_ai_platform.png" alt="Project 1 Poster" width="200"></td>
+  </tr>
+    <tr>
+    <td>
       <a href="https://github.com/sadjad6/FinSage.git"><strong>FinSage: AI-Powered Financial Advisor</strong></a><br>
       <em>Autonomous multi-agent system for financial and investment advising, helping users make data-driven decisions across various asset classes including stocks, ETFs, bonds, and cryptocurrencies.</em>
     </td>
