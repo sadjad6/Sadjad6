@@ -220,7 +220,7 @@
     </td>
     <td>LLM (Ollama + GPT-4o-mini), LangChain, LangGraph, Agentic Workflow, RAG, Hybrid Search (Vector + BM25), Prompt Engineering, GDPR Compliance, PII Anonymization, Multilingual NLP, FastAPI, Weaviate Vector DB, Document Processing, Token Counting, Language Detection</td>
     <td> Text, PDF, Markdown, CSV/Structured Documents, JSON, API Data, Embeddings, User Queries, Cost Metrics, API Responses, Chat Messages, Document Metadata</td>
-    <td><img src="https://github.com/sadjad6/agentic-enterprise-rag-langgraph/blob/main/assets/banner.png" alt="Project 1 Poster" width="200"></td>
+    <td><img src="https://github.com/sadjad6/agentic-enterprise-rag-langgraph/blob/main/assets/banner.jpeg" alt="Project 1 Poster" width="200"></td>
   </tr>
     <tr>
     <td>
