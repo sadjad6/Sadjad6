@@ -229,7 +229,7 @@
     </td>
     <td>Multi-Agent System, Agentic Workflow, Orchestration Agents, Ensemble Learning (XGBoost, LightGBM), Statistical Analysis (SciPy, Statsmodels), Vector Database (ChromaDB), RAG (Retrieval-Augmented Generation), Experiment Tracking (MLflow), MCP Servers, Prompt Engineering, FastAPI REST Architecture, Streamlit UI</td>
     <td> CSV, Pandas DataFrames, NumPy Arrays, JSON, PyArrow Tables, SQL Databases, Text Reports, Experiment Metadata, Vector Embeddings, Excel Files, Tabular Data, Time Series Data</td>
-    <td><img src="https://github.com/sadjad6/open-autonomous-research-lab/blob/860ab15af23e72b349a98c95e53449dfd3893d7a/docs/assets/oarl_logo.jpeg" alt="Project 1 Poster" width="200"></td>
+    <td><img src="https://github.com/sadjad6/open-autonomous-research-lab/blob/main/docs/assets/oarl_logo.jpeg" alt="Project 1 Poster" width="200"></td>
   </tr>
     <tr>
     <td>
