@@ -225,7 +225,7 @@
   <tr>
     <td>
       <a href="https://github.com/sadjad6/predictive-maintenance-mlops-system.git"><strong>Predictive Maintenance MLOps</strong></a><br>
-      <em>Production-grade system predicting machinery failures, remaining useful life, and anomalies using ensemble ML models with explainability and business KPI translation. Delivers 87% failure detection accuracy with $2.4M annual cost savings across 100 machines.</em>
+      <em>End-to-end predictive maintenance system using machine learning and MLOps principles. Includes failure prediction, remaining useful life estimation, anomaly detection, and interactive Power BI & Tableau dashboards for industrial decision-making.</em>
     </td>
     <td>Failure Classification, Remaining Useful Life (RUL) Regression, Anomaly Detection, Time-Series Modeling, Ensemble Methods, XGBoost, LightGBM, LSTM, Isolation Forest, Autoencoder, Feature Engineering, SHAP Explainability, Cost-Sensitive Learning, What-If Simulation, MLOps Orchestration</td>
     <td>IoT Sensor Data (CSV/Parquet), Real-Time Sensor Readings (Temperature, Vibration, Pressure, Rotation Speed), Historical Sensor Telemetry, Maintenance Logs, REST API Payloads (JSON)</td>
