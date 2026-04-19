@@ -70,7 +70,7 @@
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/sadjad6/Sadjad6/blob/main/flask-logo.png" alt="flask" width="40" height="40"/>
   </a>
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
