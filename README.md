@@ -234,7 +234,7 @@
   <tr>
     <td>
       <a href="https://github.com/sadjad6/recsys-ml-platform.git"><strong>RecSys ML Platform</strong></a><br>
-      <em>Production-grade real-time recommendation system with microservices architecture that combines collaborative filtering, online learning, and A/B testing to deliver personalized recommendations at scale. Integrates streaming event processing, MLflow model lifecycle management, and comprehensive observability.</em>
+      <em>Production-grade real-time recommendation system with microservices, Kafka/Spark pipelines, MLflow lifecycle management, online learning, A/B testing, and Prometheus/Grafana monitoring, deployed via Docker and Kubernetes.</em>
     </td>
     <td>Microservices Architecture, Collaborative Filtering (ALS), Online Learning (Incremental Embeddings), A/B Testing (Deterministic Hashing), Streaming Data Processing (Kafka + Spark), Feature Engineering, Model Serving, FastAPI, MLflow Registry, Prometheus/Grafana Monitoring, Docker/Kubernetes Orchestration, Redis Caching, Delta Lake, Data Drift Detection (Evidently)</td>
     <td>Clickstream Events (clicks, views, ratings), User Interaction Payloads, JSON API Requests, Kafka Event Streams</td>
