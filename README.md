@@ -281,7 +281,7 @@ Artwork from earlier projects and design concepts, including an AI-generated Tex
 <td align="center"><a href="https://github.com/sadjad6/CNN-Predictor-for-Malaria_Cells-LIME-CAM"><img src="MalariaClassifierArtImage.png" alt="Malaria Cell Classifier Poster" width="200"/><br/><strong>Malaria Cell Classifier</strong></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet"><img src="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet/blob/main/Images/giphy.gif" alt="Automated Nucleus Detector Poster" width="200"/><br/><strong>Automated Nucleus Detector</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet"><img src="https://raw.githubusercontent.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet/main/Images/giphy.gif" alt="Automated Nucleus Detector Poster" width="200"/><br/><strong>Automated Nucleus Detector</strong></a></td>
 <td align="center"><a href="https://github.com/sadjad6/movie-recommendation-systems"><img src="https://raw.githubusercontent.com/mdhabibi/mdhabibi/main/poster.png" alt="Movie Recommendation Systems Poster" width="200"/><br/><strong>Movie Recommendation Systems</strong></a></td>
 </tr>
 </table>
