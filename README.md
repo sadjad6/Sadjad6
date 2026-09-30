@@ -11,7 +11,7 @@ I build LLM applications, retrieval and agent workflows, and ML systems with eva
 
 ## Selected Engineering Work — 2026
 
-These public repositories include portfolio applications, reference architectures and experiments. Their READMEs distinguish implemented components from demo data and unfinished integrations.
+These public repositories include portfolio applications, reference architectures and experiments. The status labels reflect the public implementation, including demo data and unfinished integrations.
 
 ### [Agentic Enterprise RAG](https://github.com/sadjad6/agentic-enterprise-rag-langgraph)
 **Portfolio application / RAG reference architecture**
@@ -32,7 +32,7 @@ Prefect workflows for data preparation, failure classification and remaining-use
 
 Synthetic agent environments with PPO training, seeded evaluation and execution-based task judges. Explores distribution shift and reproducibility without external LLM APIs; determinism and evaluation coverage have documented limits.
 
-**Technologies:** Python · PyTorch · Gymnasium · Stable-Baselines3 · pytest
+**Technologies:** Python · PyTorch · NumPy · PyYAML
 
 ### [Self-Improving LLM Knowledge Base](https://github.com/sadjad6/self-improving-llm-kb)
 **Portfolio retrieval and memory system**
