@@ -28,16 +28,16 @@ Prefect workflows for data preparation, failure classification and remaining-use
 **Technologies:** Python · scikit-learn · XGBoost · LightGBM · Prefect · FastAPI · Plotly Dash
 
 ### [Agent Evaluation Lab](https://github.com/sadjad6/agent_eval_lab)
-**Experimental training and evaluation framework**
+**Experimental synthetic-policy evaluation framework**
 
-Synthetic agent environments with PPO training, seeded evaluation and execution-based task judges. Explores distribution shift and reproducibility without external LLM APIs; determinism and evaluation coverage have documented limits.
+One-step synthetic environments with a custom PPO-style policy trainer and threshold-based checkpoint evaluation. Includes distribution-shift datasets, seed controls and repeat-run comparisons; label-noise evaluation is only partially integrated.
 
 **Technologies:** Python · PyTorch · NumPy · PyYAML
 
 ### [Self-Improving LLM Knowledge Base](https://github.com/sadjad6/self-improving-llm-kb)
 **Portfolio retrieval and memory system**
 
-FAISS/BM25 retrieval with Reciprocal Rank Fusion, persistent interaction memory and evaluation tooling. “Self-improving” refers to retrieval/memory behavior, not automatic model retraining or demonstrated quality gains.
+FAISS/BM25 retrieval with Reciprocal Rank Fusion, stored Q&A interactions, summary notes and evaluation utilities. Summaries require manual reindexing; the system does not automatically retrain the model or demonstrate quality gains.
 
 **Technologies:** Python · FAISS · rank-bm25 · sentence-transformers · MLflow
 
