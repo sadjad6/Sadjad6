@@ -281,7 +281,7 @@ Artwork from earlier projects and design concepts, including an AI-generated Tex
 <td align="center"><a href="https://github.com/sadjad6/CNN-Predictor-for-Malaria_Cells-LIME-CAM"><img src="MalariaClassifierArtImage.png" alt="Malaria Cell Classifier Poster" width="200"/><br/><strong>Malaria Cell Classifier</strong></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBpcWpsZjB5M3p1MjFnc2h5cmJxaG1heWExZ250Z2RhNjl4Z29zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlH7x63YyqTU4/200w.gif" alt="Eukaryotic cell animation from GIPHY: XlH7x63YyqTU4" width="200"/><br/><strong>Automated Nucleus Detector</strong></a></td>
+<td align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBpcWpsZjB5M3p1MjFnc2h5cmJxaG1heWExZ250Z2RhNjl4Z29zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlH7x63YyqTU4/200w.gif" alt="Eukaryotic cell animation from GIPHY: XlH7x63YyqTU4" width="200"/><br/><a href="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet"><strong>Automated Nucleus Detector</strong></a><br/><a href="https://giphy.com/embed/XlH7x63YyqTU4"><sub>Animation on GIPHY</sub></a></td>
 <td align="center"><a href="https://github.com/sadjad6/movie-recommendation-systems"><img src="https://raw.githubusercontent.com/mdhabibi/mdhabibi/main/poster.png" alt="Movie Recommendation Systems Poster" width="200"/><br/><strong>Movie Recommendation Systems</strong></a></td>
 </tr>
 </table>
