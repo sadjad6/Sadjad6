@@ -267,22 +267,22 @@ PhD in Physics from Heidelberg University, with research in computational neuros
 <details>
 <summary><strong>More project artwork</strong></summary>
 
-Original artwork from earlier projects and design concepts. These images are retained as a visual archive, rather than additional claims of completed or deployed systems.
+Artwork from earlier projects and design concepts, including an AI-generated Text-Summarizer cover. These images are retained as a visual archive, rather than additional claims of completed or deployed systems.
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/sadjad6/aegis-claims-ai-platform/main/aegis_claims_ai_platform.png" alt="AegisClaims AI Poster" width="200"/><br/>AegisClaims AI</td>
-<td align="center"><img src="https://raw.githubusercontent.com/sadjad6/Sadjad6/main/Finsage.png" alt="FinSage Poster" width="200"/><br/>FinSage: AI-Powered Financial Advisor</td>
-<td align="center"><img src="https://raw.githubusercontent.com/sadjad6/Sadjad6/main/pka_agent.png" alt="Personal Knowledge Management Agent Poster" width="200"/><br/>Personal Knowledge Management Agent</td>
+<td align="center"><a href="https://github.com/sadjad6/aegis-claims-ai-platform"><img src="https://raw.githubusercontent.com/sadjad6/aegis-claims-ai-platform/main/aegis_claims_ai_platform.png" alt="AegisClaims AI Poster" width="200"/><br/><strong>AegisClaims AI</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/FinSage"><img src="https://raw.githubusercontent.com/sadjad6/Sadjad6/main/Finsage.png" alt="FinSage Poster" width="200"/><br/><strong>FinSage: AI-Powered Financial Advisor</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/personal_knowledge_agent"><img src="https://raw.githubusercontent.com/sadjad6/Sadjad6/main/pka_agent.png" alt="Personal Knowledge Management Agent Poster" width="200"/><br/><strong>Personal Knowledge Management Agent</strong></a></td>
 </tr>
 <tr>
-<td align="center"><img src="./afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="PDF Q&A RAG Poster" width="200"/><br/>PDF Q&A RAG</td>
-<td align="center"><a href="https://github.com/sadjad6/Text-Summarizer"><strong>Text-Summarizer</strong></a><br/><em>Original artwork source is unavailable.</em></td>
-<td align="center"><img src="MalariaClassifierArtImage.png" alt="Malaria Cell Classifier Poster" width="200"/><br/>Malaria Cell Classifier</td>
+<td align="center"><a href="https://github.com/sadjad6/pdf_RAG_chatbot"><img src="./afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="PDF Q&A RAG Poster" width="200"/><br/><strong>PDF Q&A RAG</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/Text-Summarizer"><img src="./assets/text-summarizer-cover.png" alt="Text-Summarizer conceptual cover artwork" width="200"/><br/><strong>Text-Summarizer</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/CNN-Predictor-for-Malaria_Cells-LIME-CAM"><img src="MalariaClassifierArtImage.png" alt="Malaria Cell Classifier Poster" width="200"/><br/><strong>Malaria Cell Classifier</strong></a></td>
 </tr>
 <tr>
-<td align="center"><img src="giphy.gif" alt="Automated Nucleus Detector Poster" width="200"/><br/>Automated Nucleus Detector</td>
-<td align="center"><img src="https://raw.githubusercontent.com/mdhabibi/mdhabibi/main/poster.png" alt="Movie Recommendation Systems Poster" width="200"/><br/>Movie Recommendation Systems</td>
+<td align="center"><a href="https://github.com/sadjad6/Automated-Cell-Semantic-Segmentation-with-UNet"><img src="giphy.gif" alt="Automated Nucleus Detector Poster" width="200"/><br/><strong>Automated Nucleus Detector</strong></a></td>
+<td align="center"><a href="https://github.com/sadjad6/movie-recommendation-systems"><img src="https://raw.githubusercontent.com/mdhabibi/mdhabibi/main/poster.png" alt="Movie Recommendation Systems Poster" width="200"/><br/><strong>Movie Recommendation Systems</strong></a></td>
 </tr>
 </table>
 
