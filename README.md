@@ -79,9 +79,6 @@ A fixed workflow connects specialist components for data preparation, EDA, basel
 **ML Systems & MLOps:** MLflow · Prefect · Docker · CI/CD configuration · Monitoring instrumentation  
 **Backend & Data:** Python · FastAPI · PostgreSQL · Vector databases
 
-<details>
-<summary><strong>Technology icons</strong></summary>
-
 <p align="left">
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -233,8 +230,6 @@ A fixed workflow connects specialist components for data preparation, EDA, basel
   </a>
 </p>
 
-</details>
-
 ## Research Foundation
 
 PhD in Physics from Heidelberg University, with research in computational neuroscience, Bayesian inference and nonlinear systems. [Wilson–Cowan DCM research code](https://github.com/sadjad6/W-C_DCM1) explores dynamic causal modeling of fMRI and Bayesian model-family comparison using MATLAB/SPM.
@@ -281,8 +276,8 @@ Original artwork from earlier projects and design concepts. These images are ret
 <td align="center"><img src="https://raw.githubusercontent.com/sadjad6/Sadjad6/main/pka_agent.png" alt="Personal Knowledge Management Agent Poster" width="200"/><br/>Personal Knowledge Management Agent</td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/sadjad6/AboutMe/main/images/rag_pdf/afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="PDF Q&A RAG Poster" width="200"/><br/>PDF Q&A RAG</td>
-<td align="center"><img src="https://raw.githubusercontent.com/sadjad6/AboutMe/main/images/Text_summarization/text_sum.webp" alt="Text-Summarizer Poster" width="200"/><br/>Text-Summarizer</td>
+<td align="center"><img src="./afadd2c8-ffa2-48b8-8dff-20a5d8134f9b.webp" alt="PDF Q&A RAG Poster" width="200"/><br/>PDF Q&A RAG</td>
+<td align="center"><a href="https://github.com/sadjad6/Text-Summarizer"><strong>Text-Summarizer</strong></a><br/><em>Original artwork source is unavailable.</em></td>
 <td align="center"><img src="MalariaClassifierArtImage.png" alt="Malaria Cell Classifier Poster" width="200"/><br/>Malaria Cell Classifier</td>
 </tr>
 <tr>
